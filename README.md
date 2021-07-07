@@ -9,7 +9,6 @@ def traverse(tree, init): BFS traversal function. This func accepts two inputs: 
 def pathfinder(tree, init, goal): still BFS traversal function. However, this func accepts three inputs: the tree, the initial state, and the goal state. Your task is to find the solution from the initial state to the goal state even we have the loopy path in the tree. (3 points)
 
 Assignment 2
-
 In this assignment, we will consider the problem of finding the shortest path for a robot vacuum on an 8x8 grid. The detailed instructions are included in the PA2_instruction.pdf file and python files that will guide you through the assignment.
 The code for this assignment includes the following files:
 PA2_search.py: you will edit this file which contains methods for A* an UCS algorithms.
